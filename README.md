@@ -1,2 +1,3 @@
 # hello-world
-just creat repository
+hello everyone!
+I like machine learning and artifall intelligence .
